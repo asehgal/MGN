@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BE174A5-E0B9-4710-A672-E25BEAF170EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MGN</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F39F997-183C-41DB-BCF2-49D078645BC4</key>
+		<string>https://bitbucket.org/abhimanyu_rareavis/mogn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MGN.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F39F997-183C-41DB-BCF2-49D078645BC4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/abhimanyu_rareavis/mogn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F39F997-183C-41DB-BCF2-49D078645BC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F39F997-183C-41DB-BCF2-49D078645BC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mogn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
